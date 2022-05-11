@@ -1,4 +1,4 @@
-import { calculation } from "../src/index";
+import { calculation } from "./../index";
 
 describe("Calculation.add()", () => {
   it("should add two numbers", async () => {
